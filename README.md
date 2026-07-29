@@ -243,6 +243,12 @@ This project strengthened my understanding of:
 - Inventory Analytics
 - Warehouse Operations
 
+📁 Project Files
+
+Additional project resources are available here:
+
+[Google Drive link](https://drive.google.com/drive/folders/1nCn_1yZU5h2EcAj45VEnhO4S3O196sAZ?usp=drive_link)
+
 👩‍💻 Author
 
 Parita Dhanani
