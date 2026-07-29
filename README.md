@@ -176,46 +176,13 @@ Visuals
 The warehouse monitoring system is designed using modular Verilog components.
 
 
-Warehouse Top Module
-│
-├── Entry Controller
-├── Exit Controller
-├── Inventory Counter
-├── Alert Controller
-└── Display Controller
+Warehouse Top Module:
+Entry Controller
+Exit Controller
+Inventory Counter
+Alert Controller
+Display Controller
 
-📂 Project Structure
-
-
-Smart-Warehouse-Inventory-System
-│
-├── Dataset
-│   └── retail_store_inventory.csv
-│
-├── Images
-│   ├── Dashboard Screenshots
-│   ├── Waveform
-│   ├── Timing Report
-│   └── Flow Diagram
-│
-├── PowerBI
-│   ├── Warehouse Inventory Dashboard.pbix
-│   └── Warehouse Inventory Dashboard.pdf
-│
-├── Quartus_Project
-│   ├── warehouse_top.v
-│   ├── inventory_counter.v
-│   ├── entry_controller.v
-│   ├── exit_controller.v
-│   ├── alert_controller.v
-│   ├── display_controller.v
-│   ├── tb_warehouse.v
-│   └── constraints.sdc
-│
-├── Reports
-│   └── Flow Summary Report
-│
-└── README.md
 
 🚀 Future Enhancements
 
