@@ -1,0 +1,58 @@
+Flow Summary report for warehouse_top
+Sat Jul 25 16:20:01 2026
+Quartus Prime Version 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2025  Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus Prime License Agreement,
+the Altera IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Altera and sold by Altera or its authorized distributors.  Please
+refer to the Altera Software License Subscription Agreements 
+on the Quartus Prime software download page.
+
+
+
++-----------------------------------------------------------------------------------+
+; Flow Summary                                                                      ;
++---------------------------------+-------------------------------------------------+
+; Flow Status                     ; Successful - Sat Jul 25 16:07:06 2026           ;
+; Quartus Prime Version           ; 25.1std.0 Build 1129 10/21/2025 SC Lite Edition ;
+; Revision Name                   ; warehouse_top                                   ;
+; Top-level Entity Name           ; inventory_counter                               ;
+; Family                          ; Cyclone V                                       ;
+; Device                          ; 5CGXFC7C7F23C8                                  ;
+; Timing Models                   ; Final                                           ;
+; Logic utilization (in ALMs)     ; 30 / 56,480 ( < 1 % )                           ;
+; Total registers                 ; 42                                              ;
+; Total pins                      ; 46 / 268 ( 17 % )                               ;
+; Total virtual pins              ; 0                                               ;
+; Total block memory bits         ; 0 / 7,024,640 ( 0 % )                           ;
+; Total DSP Blocks                ; 0 / 156 ( 0 % )                                 ;
+; Total HSSI RX PCSs              ; 0 / 6 ( 0 % )                                   ;
+; Total HSSI PMA RX Deserializers ; 0 / 6 ( 0 % )                                   ;
+; Total HSSI TX PCSs              ; 0 / 6 ( 0 % )                                   ;
+; Total HSSI PMA TX Serializers   ; 0 / 6 ( 0 % )                                   ;
+; Total PLLs                      ; 0 / 13 ( 0 % )                                  ;
+; Total DLLs                      ; 0 / 4 ( 0 % )                                   ;
++---------------------------------+-------------------------------------------------+
+
+

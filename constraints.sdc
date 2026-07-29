@@ -1,0 +1,4 @@
+# Warehouse Inventory System
+# Clock Constraints
+
+create_clock -name clk -period 20.000 [get_ports clk]
